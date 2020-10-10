@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602334396 source:c:\users\pc\documents\coding\c\kernel\main.cpp
+	<iostream>
+	<fstream>
+
